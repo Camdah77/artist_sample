@@ -2,9 +2,15 @@
 `python3 -m http.server`
 
 This is under construction.
+Live: https://camdah77.github.io/artist_sample/
 
 Sample of Artist homepage
-![Wireframe](/assets/images/readme/wireframe_front.png)
+Small
+![Wireframe: mobile](/assets/images/readme/wireframe_Mobile.png)
+Medium
+![Wireframe:  ipad](/assets/images/readme/wireframe_ipad.png)
+Large
+![Wireframe: Large screen as computer](/assets/images/readme/wireframe_front.png)
 
 
 ## Tabel of contents
